@@ -11,11 +11,15 @@ In the EdTech context, this dashboard serves as a crucial bridge between academi
 
 Total Fees Collected
 
+Total Dues
+
 Pending Fees
 
 Collection Rate (%)
 
-Defaulter Count
+Student classification based on batch, dues etc
+
+Direct fee reminder Feature
 
 📅 Payment Timeline Analysis:
 Track payment trends across months/semesters to forecast revenue flows.
@@ -37,7 +41,9 @@ Required Columns:
 
 Student ID
 
-Name
+Student Name
+
+Father Name
 
 Course/Batch
 
@@ -49,7 +55,9 @@ Due Amount
 
 Payment Date(s)
 
-Contact Email/Phone
+Remarks
+
+ERP Link
 
 Refresh Frequency:
 Weekly or as per institutional policy.
