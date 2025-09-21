@@ -68,6 +68,13 @@ Refresh Frequency:
 Weekly or as per institutional policy.
 ----------------------------------------
 
+## Here is the visuals of Compliance Dashboard , due to student's privacy whole dashboard can't be deployed
+
+![College Fee Dashboard 1](https://raw.githubusercontent.com/harsh-bca/College-Fee-Dashboard/main/College%20fee%20dashboard%201.png)
+
+![College Fee Dashboard 2](https://raw.githubusercontent.com/harsh-bca/College-Fee-Dashboard/main/College%20fee%20dashboard%202.png)
+
+
 ## Benefits for EdTech Adoption
 Reduced Administrative Load: Automation of manual tracking & follow-up.
 
