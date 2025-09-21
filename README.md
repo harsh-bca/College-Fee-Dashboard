@@ -1,7 +1,7 @@
 ## Industry - EdTech
 # College Fee Dashboard
 
-![College Fee Dashboard](https://raw.github.com/harsh-bca/College-Fee-Dashboard/blob/main/Fee%20compliance%20dashboard.png)
+![College Fee Dashboard](https://raw.githubusercontent.com/harsh-bca/College-Fee-Dashboard/main/Fee%20compliance%20dashboard.png)
 
 Welcome to the Fee Compliance Dashboard project! This dashboard helps track and manage student fee payments efficiently.
 
