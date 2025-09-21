@@ -1,4 +1,9 @@
 ## Industry - EdTech
+# College Fee Dashboard
+
+![College Fee Dashboard](https://raw.github.com/harsh-bca/College-Fee-Dashboard/blob/main/Fee%20compliance%20dashboard.png)
+
+Welcome to the Fee Compliance Dashboard project! This dashboard helps track and manage student fee payments efficiently.
 
 # Overview
 The College Fee Dashboard is an interactive, real-time financial monitoring tool designed for educational institutions to streamline fee tracking, payment status monitoring, and automated reminders. Built using Looker Studio with data sourced from Excel sheets, the dashboard enables administrators to gain instant insights into fee collections, pending payments, and overall financial health.
